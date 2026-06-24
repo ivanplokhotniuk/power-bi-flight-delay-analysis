@@ -78,8 +78,6 @@ Można go pobrać z Google Drive:
 
 [**Pobierz projekt Power BI (.pbix)**](https://drive.google.com/file/d/11Ob4-hNzVp9mYk9nJm4kTw4GzzpCnJ6v/view?usp=sharing)
 
-> Upewnij się, że plik na Google Drive ma ustawiony dostęp: „Każda osoba mająca link”.
-
 ## Raport PDF
 
 Pełny raport opisujący źródła danych, przygotowanie danych, model, miary DAX, wyniki i wnioski znajduje się w pliku:
@@ -93,8 +91,6 @@ Pełny raport opisujący źródła danych, przygotowanie danych, model, miary DA
 
 1. Pobierz plik `.pbix` z Google Drive.
 2. Otwórz go w Microsoft Power BI Desktop.
-3. Wszystkie dane są zapisane wewnątrz modelu, dlatego raport można przeglądać bez dodatkowych plików CSV.
-4. Do ponownego odświeżenia danych może być konieczne wskazanie lokalizacji plików źródłowych.
 
 ## Autor
 
