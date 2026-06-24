@@ -86,36 +86,7 @@ Pełny raport opisujący źródła danych, przygotowanie danych, model, miary DA
 
 [`Raport_Analiza_lotow_Ivan_Plokhotniuk.pdf`](Raport_Analiza_lotow_Ivan_Plokhotniuk.pdf)
 
-## Podgląd dashboardów
 
-### Podsumowanie
-
-![Podsumowanie](images/podsumowanie.png)
-
-### Analiza czasu
-
-![Analiza czasu](images/analiza_czasu.png)
-
-### Linie lotnicze i lotniska
-
-![Linie i lotniska](images/linie_i_lotniska.png)
-
-### Przyczyny opóźnień i odwołań
-
-![Przyczyny i odwołania](images/przyczyny_i_odwolania.png)
-
-## Struktura repozytorium
-
-```text
-power-bi-flight-delay-analysis/
-│
-├── README.md
-├── Raport_Analiza_lotow_Ivan_Plokhotniuk.pdf
-└── images/
-    ├── podsumowanie.png
-    ├── analiza_czasu.png
-    ├── linie_i_lotniska.png
-    └── przyczyny_i_odwolania.png
 ```
 
 ## Uruchomienie projektu
